@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Interactive Table - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Interactive Table component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/interactive-table)
+- [Info Page](https://codyhouse.co/ds/components/info/interactive-table)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
